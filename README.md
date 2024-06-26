@@ -1,1 +1,1 @@
-# Netflix-Dashboard
+## The Netflix Dashboard project involves creating an interactive and user-friendly Power BI (PBIX) file to visualize and analyze Netflix data. The dashboard will provide insights into viewer behavior, content performance, and subscription trends. Key features include tracking viewing trends, analyzing demographics, and identifying top-performing titles to support data-driven decision-making.
